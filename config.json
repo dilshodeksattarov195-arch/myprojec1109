@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authralidate",
+        "uuid": 9621684,
+        "checksum": "sgh26s"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
